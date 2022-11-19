@@ -24,6 +24,6 @@ Open Source: Los desarrollos y soluciones de bodegas de datos utilizan maplibre,
 - [@Manu](https://www.github.com/Canel420)
 
 
-## Documentation
+## Documentacion
 
 [Wiki](https://github.com/Beedataco/datajam/wiki)
