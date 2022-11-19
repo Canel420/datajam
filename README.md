@@ -11,7 +11,7 @@ Esta plataforma permitirá a diferentes entes (i.e. ciudadanos del común, contr
 Bienvenidos 
 ver `contributing.md` para participar.
 
-Por favor adherirse a las siguietnes premisas:
+Por favor adherirse a las siguientes premisas:
 Cumplimiento de estándares: SDMX-JSON + geojson
 Descentralización: Permitir la carga de datos y su modelado por parte de la comunidad (Modelo Wiki dónde la información es cargada y constantemente validada por la comunidad)
 Información incremental, contextual y complementaria: La información abierta debe crearse dentro de un contexto y con perspectivas que permitan generar contra peso, se poder cruzar dimensiones (tiempo, lugar, personas), con información de contratistas, veedurías ciudadanas y entidades contratantes.
@@ -26,4 +26,4 @@ Open Source: Los desarrollos y soluciones de bodegas de datos utilizan maplibre,
 
 ## Documentation
 
-[Wiki]([https://linktodocumentation](https://github.com/Beedataco/datajam/wiki))
+[Wiki](https://github.com/Beedataco/datajam/wiki)
