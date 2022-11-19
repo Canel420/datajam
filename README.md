@@ -21,7 +21,6 @@ Open Source: Los desarrollos y soluciones de bodegas de datos utilizan maplibre,
 ## Authors
 
 - [@beedataco](https://www.github.com/Beedataco)
-- [@Manu](https://www.github.com/Canel420)
 
 
 ## Documentacion
